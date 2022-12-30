@@ -1,3 +1,6 @@
+prod by https://github.com/dmrompav 
+- with minor modifications
+
 # Vanilla-vite
 Simple Vite package for front end apps.
 
