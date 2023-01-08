@@ -21,19 +21,45 @@ nav, footer, header, aside
 input::-ms-clear
 	display: none
 
-button
+input
+	outline: none
+	background-color: #fff
 	cursor: pointer
+
+	&:active
+		background-colbackground-color: #fff
+
+input:-webkit-autofill
+	background-color: #fff
+
+input:-webkit-autofill:hover
+	background-color: #fff
+
+input:-webkit-autofill:focus
+	background-color: #fff
+
+input:-webkit-autofill:active 
+	background-color: #fff
+
+input[data-autocompleted]
+	background-color: transparent
+
+
+button
+	background-color: transparent
+	cursor: pointer
+
 
 button::-moz-focus-inner
 	padding: 0
 	border: 0
 
 button:active, button:focus
-	outline: none !important
+	outline: none
 
 
 button::-moz-focus-inner
-	border: 0 !important
+	border: 0
 
 a
 	text-decoration: none

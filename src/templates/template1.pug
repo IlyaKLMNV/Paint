@@ -1,6 +1,33 @@
+div(id="cursorBrush")
+div(id="cursorEraser")
+h1 Etch-a-sketch
 .wrapper
-	form(action="#") 
-		input(class="input-Hex-Color" id="inputHexColor" type="text" name="hexColor" placeholder="Введите Hex-код цвета")
-		button(class="button-Hex-Color" id="buttonHexColor" type="submit") Ввести
-	div(class="container" id="cells") 
+	
+	div(id="settingsColumn")
+		form(action="#" autocomplete="off") 
+			div(class="palette") Palette:
+			input(id="inputHexColor" type="color" name="hexColor" placeholder="Введите Hex-код цвета")
+
+			//- input(id="sideLength" type="number" name="hexColor" placeholder="Введите длину стороны сетки")
+
+			input(id="sideLength" type="range" min="2" max="64" value="64")
+
+			div(id="sideSizeField") 64x64
+
+
+		button(id="buttonCreateCell" type="button") Create cell
+
+		button(id="buttonModeEraser" type="button")
+			
+			div 
+			p Eraser
+			div 
+			
+
+		button(id="buttonModeColor" type="button") Paint mode
+
+
+	div(id="cells") 
+
+
 
