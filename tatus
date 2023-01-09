@@ -1,0 +1,59 @@
+[33mcommit 950066642cbad2d076115aa987c45f9d5955ac16[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Klimanov Ilya <iklmnv@gmail.com>
+Date:   Mon Jan 9 16:04:24 2023 +0300
+
+    media-queries has been finished
+
+[33mcommit 97f5471f5ec6813f3203ea3c0ab4a1004a654543[m
+Author: Klimanov Ilya <iklmnv@gmail.com>
+Date:   Sun Jan 8 20:48:14 2023 +0300
+
+    Drawer finished, media-queries 0/10, need to change cursor
+
+[33mcommit ea868da162c59863d35ba6e30aceac300834d6de[m
+Author: Klimanov Ilya <iklmnv@gmail.com>
+Date:   Thu Jan 5 19:05:25 2023 +0300
+
+    stage: createCells + showValueInput 1/2
+
+[33mcommit 4a854d3703d91c4ab3aaeec4b7f3da8cb5971334[m
+Author: Klimanov Ilya <iklmnv@gmail.com>
+Date:   Fri Dec 30 20:06:02 2022 +0300
+
+    First commit
+
+[33mcommit 4690c87b11bfb49fc60476f820233984d3427f81[m
+Merge: 01f9811 02d69fd
+Author: Dmitry Pavlov <dm.rom.pav@gmail.com>
+Date:   Sun Dec 11 21:47:51 2022 +0400
+
+    Merge pull request #2 from dmrompav/develop
+    
+    base fix
+
+[33mcommit 02d69fd164c278b9fbff7cc3c2cd281ad2f057ec[m
+Author: dmrompav <dm.rom.pav@gmail.com>
+Date:   Sun Dec 11 20:47:19 2022 +0300
+
+    base fix
+
+[33mcommit 01f981132eec8fba3ace1e26f9f024daeac761ab[m
+Merge: 3f2e245 3194690
+Author: Dmitry Pavlov <dm.rom.pav@gmail.com>
+Date:   Sun Dec 11 19:26:02 2022 +0400
+
+    Merge pull request #1 from dmrompav/develop
+    
+    deploy test
+
+[33mcommit 3194690b4dbf4ddecd03942514438a895ae8d6e9[m
+Author: dmrompav <dm.rom.pav@gmail.com>
+Date:   Sun Dec 11 18:25:15 2022 +0300
+
+    deploy test
+
+[33mcommit 3f2e2450e5952514d70391c772172b61e968f778[m
+Author: dmrompav <dm.rom.pav@gmail.com>
+Date:   Sun Dec 11 18:20:48 2022 +0300
+
+    first commit
